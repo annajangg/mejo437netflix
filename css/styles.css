@@ -165,7 +165,8 @@ img{
     flex-direction: column;
 }
 .source-window{
-    top: 530%;
+    position: fixed;
+    bottom: 0;
 }
 
 .fa-x {
