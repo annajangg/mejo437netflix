@@ -157,14 +157,15 @@ img{
     border-radius: 5px;
     width: 65%;
     position: absolute;
-    top: 5%;
     z-index: 1;
     left: 17%;
     background: #000;
     display: none;
     align-items: center;
-
     flex-direction: column;
+}
+.source-window{
+    top: 530%;
 }
 
 .fa-x {
@@ -224,7 +225,7 @@ img{
     }
 }
 
-    
+
 
 @media screen and (min-width: 450px) and (max-width: 1064) {
     h1{
